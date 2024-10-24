@@ -84,7 +84,7 @@ import java.text.SimpleDateFormat;
 
 import java.util.Date;
 
-public class DateFormatExample 
+public class Slip13_2 
 
 {
 

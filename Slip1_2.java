@@ -1,7 +1,6 @@
 package slip1;
-
-//Q2. Define an abstract class Staff with protected members id and name. Define a parameterized constructor. Define one subclass OfficeStaff with member department. Create n objects of OfficeStaff and display all details.
-
+//Q2. Define an abstract class Staff with protected members id and name. Define a parameterized constructor. 
+//Define one subclass OfficeStaff with member department. Create n objects of OfficeStaff and display all details.
 import java.io.*;
 
 abstract class Staff
@@ -64,7 +63,7 @@ class Office_Staff extends Staff
 
 
 
-class Ass3SetA_2 
+class Slip1_2 
 
 {        
 
@@ -106,5 +105,6 @@ class Ass3SetA_2
 
 	   st[i].display();                     
 
-        }}
+        }
+}
 

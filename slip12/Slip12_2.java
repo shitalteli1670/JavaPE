@@ -6,14 +6,14 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 
-class Calc extends JFrame implements ActionListener {
+class Slip12_2 extends JFrame implements ActionListener {
 
     JTextField t;
     JButton b[] = new JButton[18];
     static double a = 0, c = 0, result = 0;
     static int operator = 0;
 
-    Calc() {
+    Slip12_2() {
         t = new JTextField(20);
         
         b[0] = new JButton("1");
